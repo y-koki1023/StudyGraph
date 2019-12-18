@@ -17,3 +17,7 @@ SNS使えば承認欲求満たせるかも
 - Cookie
 - グラフ
 - タイマー
+
+## デザインドラフト
+
+https://www.figma.com/file/qCtCmo7umEneurNLajB1EB/StudyGraph?node-id=2%3A0
